@@ -1,0 +1,12 @@
+vendor.usb.use_ffs_mtp=1
+sys.usb.mtp.batchcancel=1
+ro.treble.enabled=true
+persist.vendor.qti.inputopts.enable=true
+persist.vendor.qti.inputopts.movetouchslop=0.6
+debug.gralloc.gfx_ubwc_disable=0
+debug.sf.enable_hwc_vds=1
+debug.sf.latch_unsignaled=1
+persist.vendor.color.matrix=2
+external_storage.projid.enabled=1
+external_storage.casefold.enabled=1
+external_storage.sdcardfs.enabled=0
